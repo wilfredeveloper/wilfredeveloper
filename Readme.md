@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=F7951A&center=true&random=false&width=435&lines=Make+things+better;+by+making+better+things)](https://git.io/typing-svg)
 
-Half Developer. Half Designer. Glad
+Half Developer. Half Designer
 
 
 ## Statistics
